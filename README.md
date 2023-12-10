@@ -35,3 +35,8 @@ import { useSelector, useDispatch } from "react-redux";
 
 ..calling     dispatch(udpate(currentQuery));
 ...  accessing store  const _query = useSelector((state) => state.query.value);
+
+
+screenshots:
+
+<img width="956" alt="image" src="https://github.com/Rawendra/react-news-app-redux-tool-kit-news-api-media-queries/assets/38812338/03c69115-8ca1-4bd0-aa68-56332f46d60e">
