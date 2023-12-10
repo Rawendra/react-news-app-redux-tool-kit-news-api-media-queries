@@ -1,0 +1,29 @@
+.header-main-container {
+  background-color: rgb(49 49 193);
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+  min-height: 50px;
+  align-items: center;
+  font-family: "Roboto";
+  border-bottom: 2px solid rgb(203, 203, 203);
+}
+.header-main-container-main-title {
+  font-weight: 800;
+}
+.header-main-side-options {
+  display: flex;
+  flex-wrap: wrap;
+}
+.header-main-side-options-item {
+  margin-right: 15px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+  .header-main-container {
+    background-color: gold;
+    color: black
+  }
+}

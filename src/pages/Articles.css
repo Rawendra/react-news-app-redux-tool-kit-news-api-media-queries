@@ -1,0 +1,40 @@
+.articles-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.articles-container-item {
+  cursor: pointer;
+}
+.articles-container-item:hover {
+}
+
+.article-title {
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.article-title:hover {
+  font-weight: 800;
+  color: rgb(49 49 193);
+  margin-bottom: 20px;
+}
+.selected-article-image{
+  width: 800px;
+}
+@media only screen and (max-width: 600px) {
+  .article-title {
+    width: 300;
+    font-size: xx-small;
+    background-color: gold;
+  }
+  body {
+    background-color: rgb(255, 241, 164);
+    max-width: 200px;
+  }
+  .selected-article-container{
+    max-width: 200px;
+    font-size: xx-small;
+  }
+  .selected-article-image{
+    width: 200px;
+  }
+}
