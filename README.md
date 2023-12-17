@@ -43,3 +43,5 @@ screenshots:
 
 <img width="181" alt="image" src="https://github.com/Rawendra/react-news-app-redux-tool-kit-news-api-media-queries/assets/38812338/b11327f1-2ccc-4d1e-bbb7-a6c4ff377eee">
 
+
+D:\workspaces\react\vite-project\vite-project-010-redux-toolkit\news-app-react-redux-tool-kit
