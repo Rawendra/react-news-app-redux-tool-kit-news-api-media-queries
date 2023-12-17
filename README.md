@@ -40,3 +40,6 @@ import { useSelector, useDispatch } from "react-redux";
 screenshots:
 
 <img width="956" alt="image" src="https://github.com/Rawendra/react-news-app-redux-tool-kit-news-api-media-queries/assets/38812338/03c69115-8ca1-4bd0-aa68-56332f46d60e">
+
+<img width="181" alt="image" src="https://github.com/Rawendra/react-news-app-redux-tool-kit-news-api-media-queries/assets/38812338/b11327f1-2ccc-4d1e-bbb7-a6c4ff377eee">
+
